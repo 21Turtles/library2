@@ -1,1 +1,3 @@
-
+[(jh.load; var;99)]
+[<activate;var;99>]
+[jh.use var;99, src"funblock.herokuapp.com")]
